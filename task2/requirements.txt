@@ -1,0 +1,5 @@
+# Task 2 uses only these three libraries (the brief allows pandas, NumPy and Matplotlib).
+# Install inside the repo's virtual environment:  pip install -r task2/requirements.txt
+numpy>=1.24
+pandas>=2.0
+matplotlib>=3.7
